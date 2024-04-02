@@ -26,7 +26,7 @@ https://imgur.com/a/gi21REV
 
 ## Notes
 
-I encountered challenges when adjusting the text.
+I encountered challenges when adjusting the text but was able to fix it.
 
 ## License
 
